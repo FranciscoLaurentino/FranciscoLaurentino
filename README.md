@@ -23,6 +23,15 @@ Me chamo Francisco Laurentino, tenho 17 anos e sou natural do Rio Grande do Nort
 
 ---
 
+### 🚀 Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciscoLaurentino/FranciscoLaurentino/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciscoLaurentino/FranciscoLaurentino/output/github-snake.svg" />
+  <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/FranciscoLaurentino/FranciscoLaurentino/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
