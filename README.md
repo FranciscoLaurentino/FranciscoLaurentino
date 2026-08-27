@@ -72,28 +72,29 @@ Me chamo Francisco Laurentino, tenho 17 anos e sou natural do Rio Grande do Nort
     title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://commons.wikimedia.org/wiki/File:Spring_Boot.svg](https://www.svgviewer.dev/s/pSKpWgP8)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
+
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub de Francisco Laurentino" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FranciscoLaurentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-stats-extended.vercel.app/api?username=FranciscoLaurentino&custom_title=Estat%C3%ADsticas%20de%20Laurentino&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br"
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLaurentino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Linguagens mais usadas por Francisco Laurentino" 
+    height="200" 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=FranciscoLaurentino&layout=compact&langs_count=7&theme=tokyonight&custom_title=Tecnologias&locale=pt-br"
+/>
 
-</p>
+
