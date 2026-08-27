@@ -72,7 +72,7 @@ Me chamo Francisco Laurentino, tenho 17 anos e sou natural do Rio Grande do Nort
     title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:Spring_Boot.svg" 
+    src="[https://commons.wikimedia.org/wiki/File:Spring_Boot.svg](https://www.svgviewer.dev/s/pSKpWgP8)" 
 />
 
 <br/>
