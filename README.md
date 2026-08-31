@@ -103,7 +103,7 @@ Me chamo Francisco Laurentino, tenho 17 anos e sou natural do Rio Grande do Nort
     align="left" 
     alt="Linguagens mais usadas por Francisco Laurentino" 
     height="200" 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=FranciscoLaurentino&layout=compact&langs_count=7&theme=tokyonight&custom_title=Tecnologias&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=FranciscoLaurentino&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias&locale=pt-br"
 />
 
 
