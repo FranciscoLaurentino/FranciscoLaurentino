@@ -1,4 +1,4 @@
-# 👨‍💻 Francisco Laurenino
+# 👨‍💻 Francisco Laurentino
 
 **`Desenvolvedor FullStack`**
 
